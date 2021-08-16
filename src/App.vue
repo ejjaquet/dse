@@ -2,7 +2,7 @@
   Hello World!
 </template>
 
-<script setup>
+<script>
 
 </script>
 
