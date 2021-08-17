@@ -1,5 +1,8 @@
 # dse: Dutch Soccer Exchange
 
+![Node.js CI](https://github.com/ejjaquet/dse/actions/workflows/node.js.yml/badge.svg)
+
+
 A Vue3 project setup with,
 
 -   Vite
